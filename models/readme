@@ -1,0 +1,5 @@
+model           原始网络
+modelv1         双线性-贾
+modelv2         crop+senet
+modelv3         crop+cbam
+modelv4         head+senet,screen+senet,crop+cbam
